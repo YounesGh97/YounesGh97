@@ -1,7 +1,16 @@
-<h1 align="center">Hi 👋, I'm Younes</h1>
+<p align="center">
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+</p>
+
+<p align="center">
+  
+  
+  
+  
+  <h1 align="center">Hi 👋, I'm Younes</h1>
 <h3 align="center">Learner || Coder || Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=younesgh97&label=Profile%20views&color=2585c1&style=flat" alt="younesgh97" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=younesgh97&label=Profile%20views&color=000000&style=plastic" alt="younesgh97" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=younesgh97" alt="younesgh97" /></a> </p>
 
