@@ -5,7 +5,7 @@
 <p align="center">
 <h3 align="center">Learner || Coder || Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=younesgh97&label=Profile%20views&color=000000&style=plastic" alt="younesgh97" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Younes.Ghadiri.97&label=Profile%20views&color=000000&style=plastic" alt="Younes.Ghadiri.97" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Younes.Ghadiri.97" alt="Younes.ghadiri.97" /></a> </p>
 
