@@ -2,7 +2,7 @@
 
 ### Hi There! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="20" height="20" />
 
-<img alt="Coder GIF" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" height="250" width="350" style="margin: 20px 0;" />
+<img alt="Coder GIF" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" height="250" width="auto" style="margin: 20px 0;" />
 
 ### Learner || Coder || Developer
 
