@@ -43,11 +43,9 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" style="margin: 0 15px;">](https://developer.android.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin: 0 15px;">](https://www.cprogramming.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" style="margin: 0 15px;">](https://www.docker.com/)
-[<img
- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original -wordmark.svg" alt="python" width="40" height="40"style="margin: 0
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original -wordmark.svg" alt="python" width="40" height="40"style="margin: 0
 15px;">](https://www.python.org/)
 [<img 
-
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40" style="margin: 0 15px;">](https://dotnet.microsoft.com/)
 [<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40" style="margin: 0 15px;">](https://flask.palletsprojects.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin: 0 15px;">](https://www.w3.org/html/)
