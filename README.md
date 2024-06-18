@@ -18,7 +18,7 @@
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" height="25" width="35" /> **About Me:**
 
-- 🔭 I’m currently working on **Travel and Hospitality Software Development**
+- 🔭 I’m currently working on **Biotech Software Development**
 - 🌱 I’m currently learning **Machine Learning and Big Data**
 - 🤝 I’m looking for help with **Design Patterns**
 - 💬 Ask me about **anything, I am happy to help**
