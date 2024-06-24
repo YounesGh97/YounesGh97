@@ -31,7 +31,7 @@
 [<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" height="30" width="30.5">](mailto:younesghadiri4@gmail.com)
 [<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg" alt="Instagram" height="30" width="30">](https://instagram.com/Younes.Ghadiri.97)
 [<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="YouTube" height="30" width="30">](https://www.youtube.com/Younes.Ghadiri.97)
-[<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" height="30" width="30">](https://twitter.com/YounesGh97)
+[<img 
 
 ## Languages and Tools:
 
