@@ -28,9 +28,19 @@
 
 ## How To Reach Me:
 
-[<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" height="30" width="30">](mailto:younesghadiri4@gmail.com)
-[<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg" alt="Instagram" height="30" width="30">](https://instagram.com/Younes.Ghadiri.97)
-[<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="YouTube" height="30" width="30">](https://www.youtube.com/Younes.Ghadiri.97)
+<a href="https://github.com/Younes-Ghadiri"><img width="100%" height="auto" src="img.jpg" /></a>
+
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/YounesGh97/)](https://twitter.com/YounesGh97/)
+<a href="https://www.linkedin.com/in/YounesGhadiri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+<a href="https://www.instagram.com/Younes.Ghadiri.97" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:YounesGhadiri4@gmail.com)](mailto:YounesGhadiri4@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Younes-Ghadiri/)](https://github.com/Younes-Ghadiri/)
+
+Experienced with all stages of the <a href="https://www.google.com/search?q=development+cycle">development cycle</a> for dynamic <a href="https://www.google.com/search?q=web+projects">web projects</a> and <a href="https://www.google.com/search?q=windows+applications">windows applications</a>. Well-versed in numerous <a href="https://www.google.com/search?q=programming+languages">programming languages</a> including <a href="https://www.google.com/search?q=C#">C#</a>, <a href="https://www.google.com/search?q=Python">Python</a>, <a href="https://www.google.com/search?q=JavaScript">JavaScript</a>, <a href="https://www.google.com/search?q=SQL">SQL</a>.
+<br>
+Experienced in developing and implementing <a href="https://www.google.com/search?q=REST">REST</a> and <a href="https://www.google.com/search?q=SOAP">SOAP</a> <a href="https://www.google.com/search?q=APIs">APIs</a>. 
 
 ## Languages and Tools:
 
