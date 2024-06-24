@@ -28,8 +28,6 @@
 
 ## How To Reach Me:
 
-<a href="https://github.com/Younes-Ghadiri"><img width="100%" height="auto" src="img.jpg" /></a>
-
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/YounesGh97/)](https://twitter.com/YounesGh97/)
 <a href="https://www.linkedin.com/in/YounesGhadiri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
