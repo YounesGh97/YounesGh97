@@ -38,10 +38,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:YounesGhadiri4@gmail.com)](mailto:YounesGhadiri4@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Younes-Ghadiri/)](https://github.com/Younes-Ghadiri/)
 
-Experienced with all stages of the <a href="https://www.google.com/search?q=development+cycle">development cycle</a> for dynamic <a href="https://www.google.com/search?q=web+projects">web projects</a> and <a href="https://www.google.com/search?q=windows+applications">windows applications</a>. Well-versed in numerous <a href="https://www.google.com/search?q=programming+languages">programming languages</a> including <a href="https://www.google.com/search?q=C#">C#</a>, <a href="https://www.google.com/search?q=Python">Python</a>, <a href="https://www.google.com/search?q=JavaScript">JavaScript</a>, <a href="https://www.google.com/search?q=SQL">SQL</a>.
-<br>
-Experienced in developing and implementing <a href="https://www.google.com/search?q=REST">REST</a> and <a href="https://www.google.com/search?q=SOAP">SOAP</a> <a href="https://www.google.com/search?q=APIs">APIs</a>. 
-
 ## Languages and Tools:
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40">](https://developer.android.com)
