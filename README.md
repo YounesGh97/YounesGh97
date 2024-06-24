@@ -31,7 +31,7 @@
 [<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" height="30" width="30">](mailto:younesghadiri4@gmail.com)
 [<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg" alt="Instagram" height="30" width="30">](https://instagram.com/Younes.Ghadiri.97)
 [<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="YouTube" height="30" width="30">](https://www.youtube.com/Younes.Ghadiri.97)
-[<img - **<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/6bd69ddcf3118726abbcf0aa0e0c5b6e712886b4/Assets/Linkedin.svg" height="20px" width="20px"> LinkedIn:** [None](https://www.linkedin.com/in/YounesGhadiri)
+[<img - **<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/6bd69ddcf3118726abbcf0aa0e0c5b6e712886b4/Assets/Linkedin.svg" height="30px" width="30px"> LinkedIn:** (https://www.linkedin.com/in/YounesGhadiri)
 
 ## Languages and Tools:
 
